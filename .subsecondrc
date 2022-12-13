@@ -1,0 +1,11 @@
+{
+  "displayName": "Subsecond Example Codemods",
+  "files": [
+    {
+      "displayName": "Fancy Apostrophes",
+      "path": "./transforms/fancyApostrophe.js",
+      "before": "./tests/fancyApostrophe.before.js",
+      "after": "./tests/fancyApostrophe.after.js"
+    }
+  ]
+}
